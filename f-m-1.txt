@@ -1,1 +1,2 @@
 this is first commit from first branch
+this from second commit from first branch to check stagged that is diff command
